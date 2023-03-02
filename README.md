@@ -19,7 +19,7 @@ Program using OOP to perform stock-taking on an external inventory file containi
 <!-- About -->
 # About
 
-This is a task manager system utilising OOP to replicate a real-life Nike warehouse which other store managers can use to perform stock-taking.
+This is an inventory management system which simulates a real-life Nike warehouse, allowing store managers to perform stock-taking with ease. The system is built using OOP, providing an efficient and user-friendly experience.
 
 In **inventory.txt**, you will find data on various Nike shoes such as country, code, product, cost, quantity and value.
 The purpose of the **inventory.py** program is to read this data and provide functions which allow the user to:
