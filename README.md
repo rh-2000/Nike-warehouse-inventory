@@ -33,7 +33,7 @@ The purpose of the **inventory.py** program is to read this data and provide fun
 
 To install locally, clone the repo
  ```sh
- git clone https://github.com/rh-2000/finalCapstone.git
+ git clone https://github.com/rh-2000/Nike-warehoue-inventory.git
  ```
 
 <!-- Usage -->
